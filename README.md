@@ -1,6 +1,12 @@
 # Registration Form
 
 Deployment Link : https://meek-jalebi-b3fab3.netlify.app/
+
+In the project directory, you can run:
+
+**npm start**
+Runs the app in the development mode.
+
 ## User Registration Form in React
 
 This GitHub repository hosts a user registration form built using the React JavaScript library. The registration form is a fundamental component of many web applications, allowing users to sign up and provide essential information. The form is developed as a React functional component, showcasing the efficiency and simplicity of modern React programming paradigms.
